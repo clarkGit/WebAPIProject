@@ -1,0 +1,14 @@
+E:\file\Source\WebAPIProject\WebAPIProject\WebAPIProject\bin\WebAPIProject.dll.config
+E:\file\Source\WebAPIProject\WebAPIProject\WebAPIProject\bin\WebAPIProject.dll
+E:\file\Source\WebAPIProject\WebAPIProject\WebAPIProject\bin\WebAPIProject.pdb
+E:\file\Source\WebAPIProject\WebAPIProject\WebAPIProject\bin\Newtonsoft.Json.dll
+E:\file\Source\WebAPIProject\WebAPIProject\WebAPIProject\bin\System.Net.Http.Formatting.dll
+E:\file\Source\WebAPIProject\WebAPIProject\WebAPIProject\bin\System.Web.Http.dll
+E:\file\Source\WebAPIProject\WebAPIProject\WebAPIProject\bin\System.Web.Http.WebHost.dll
+E:\file\Source\WebAPIProject\WebAPIProject\WebAPIProject\bin\Newtonsoft.Json.xml
+E:\file\Source\WebAPIProject\WebAPIProject\WebAPIProject\bin\System.Net.Http.Formatting.xml
+E:\file\Source\WebAPIProject\WebAPIProject\WebAPIProject\bin\System.Web.Http.xml
+E:\file\Source\WebAPIProject\WebAPIProject\WebAPIProject\bin\System.Web.Http.WebHost.xml
+E:\file\Source\WebAPIProject\WebAPIProject\WebAPIProject\obj\Debug\WebAPIProject.csprojResolveAssemblyReference.cache
+E:\file\Source\WebAPIProject\WebAPIProject\WebAPIProject\obj\Debug\WebAPIProject.dll
+E:\file\Source\WebAPIProject\WebAPIProject\WebAPIProject\obj\Debug\WebAPIProject.pdb
