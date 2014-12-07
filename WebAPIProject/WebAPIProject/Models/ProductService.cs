@@ -42,7 +42,9 @@ namespace WebAPIProject.Models
             }
             int index = products.FindIndex(p => p.Id == product.Id);
             if (index == -1)
-            { return false; }
+            {
+                return false; 
+            }
             products.RemoveAt(index);
             products.Add(product);
             return true;
